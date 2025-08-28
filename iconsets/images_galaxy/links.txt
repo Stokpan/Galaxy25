@@ -1,3 +1,5 @@
+cmd/lc_onlineautoformat.png cmd/lc_autoformatmenu.png
+cmd/sc_onlineautoformat.png cmd/sc_autoformatmenu.png
 cmd/lc_anchormenu.png cmd/lc_toggleanchortype.png
 cmd/lc_charbackcolor.png cmd/lc_backcolor.png
 cmd/lc_classificationdialog.png cmd/lc_formproperties.png
