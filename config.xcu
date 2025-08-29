@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <oor:items xmlns:oor="http://openoffice.org/2001/registry">
- <item oor:path="/org.openoffice.Office.Paths/Paths/Iconset/InternalPaths">
-  <node oor:name="%origin%/iconsets" oor:op="fuse"/>
- </item>
-<item oor:path="/org.openoffice.Office.UI.GenericCommands/UserInterface/Commands/org.openoffice.Office.UI.Commands:LabelType['.uno:OnlineAutoFormat']"><prop oor:name="Properties" oor:op="fuse"><value>1</value></prop></item>
+	<item oor:path="/org.openoffice.Office.Paths/Paths/Iconset/InternalPaths"> <node oor:name="%origin%/iconsets" oor:op="fuse"/> </item>
+	<item oor:path="/org.openoffice.Office.UI.WriterCommands/UserInterface/Commands/org.openoffice.Office.UI.Commands:LabelType['.uno:OnlineAutoFormat']"><prop oor:name="Properties" oor:op="fuse"><value>1</value></prop></item>
 </oor:items>

@@ -1,0 +1,5 @@
+A detailed, clear, bitmap-only icon theme for LibreOffice. Updated for the LibreOffice 25 branding and to include new icons for commands without existing icons.
+
+Based on the StarOffice Icon Design Guidelines (https://www.openoffice.org/specs/ui_in_general/icons/IconDesignGuide.pdf) and the original Galaxy Icons (http://www.openoffice.org/ui/VisualDesign/OOo_galaxy.html).
+
+To build, run build.bat on Windows 10 or later.
