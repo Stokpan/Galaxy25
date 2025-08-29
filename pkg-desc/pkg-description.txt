@@ -1,2 +1,3 @@
-Galaxy icon theme as shipped with LibreOffice before version 6.1
-Original artwork http://www.openoffice.org/ui/VisualDesign/OOo_galaxy.html
+A detailed, clear, bitmap-only icon theme for LibreOffice. Updated for the LibreOffice 25 branding and to include new icons for commands without existing icons.
+
+Based on the StarOffice Icon Design Guidelines (https://www.openoffice.org/specs/ui_in_general/icons/IconDesignGuide.pdf) and the original Galaxy Icons (http://www.openoffice.org/ui/VisualDesign/OOo_galaxy.html).
